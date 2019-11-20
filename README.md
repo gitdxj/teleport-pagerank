@@ -1,6 +1,7 @@
 # teleport-pagerank  
-WikiData为数据集，其格式为：
+WikiData.txt is the data set.  
+The format of the file is as following.
 ***  
 FromNodeID ToNodeID
-***
-作业结果所需要设置的teleport parameter的值为0.85
+***  
+This assignment requires teleport parameter to be set as 0.85.
